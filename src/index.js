@@ -7,3 +7,4 @@ module.exports.descricao = "Coletor de logs leve para servidor pequeno: agrupa e
 // 2026-05-08T14:13:00Z Resumo noturno em texto
 // 2026-05-09T11:27:00Z Resumo noturno em texto
 // 2026-05-10T16:32:00Z Resumo noturno em texto
+// 2026-05-20T17:02:00Z Comparação entre deploys

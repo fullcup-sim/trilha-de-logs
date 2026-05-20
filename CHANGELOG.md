@@ -7,3 +7,4 @@
 - 2026-05-08: Resumo noturno em texto
 - 2026-05-09: Resumo noturno em texto
 - 2026-05-10: Resumo noturno em texto
+- 2026-05-20: Comparação entre deploys
