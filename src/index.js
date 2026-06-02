@@ -11,3 +11,4 @@ module.exports.descricao = "Coletor de logs leve para servidor pequeno: agrupa e
 // 2026-05-21T14:39:00Z Comparação entre deploys
 // 2026-05-22T12:26:00Z Comparação entre deploys
 // 2026-06-01T16:50:00Z Alerta por canal de chat
+// 2026-06-02T13:02:00Z Alerta por canal de chat
