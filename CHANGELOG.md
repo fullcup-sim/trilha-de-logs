@@ -12,3 +12,4 @@
 - 2026-05-22: Comparação entre deploys
 - 2026-06-01: Alerta por canal de chat
 - 2026-06-02: Alerta por canal de chat
+- 2026-06-03: Alerta por canal de chat
