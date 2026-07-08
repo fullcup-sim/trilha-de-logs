@@ -13,3 +13,4 @@
 - 2026-06-01: Alerta por canal de chat
 - 2026-06-02: Alerta por canal de chat
 - 2026-06-03: Alerta por canal de chat
+- 2026-07-08: manutencao
