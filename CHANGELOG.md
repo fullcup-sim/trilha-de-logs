@@ -28,3 +28,4 @@
 - 2026-07-22: manutencao
 - 2026-07-25: manutencao
 - 2026-07-26: manutencao
+- 2026-07-27: manutencao
