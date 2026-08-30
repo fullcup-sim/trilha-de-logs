@@ -60,3 +60,4 @@ module.exports.descricao = "Coletor de logs leve para servidor pequeno: agrupa e
 // 2026-08-25T16:53:00Z manutencao
 // 2026-08-29T11:38:00Z manutencao
 // 2026-08-29T13:07:00Z manutencao
+// 2026-08-30T11:32:00Z manutencao
